@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-overflow-scrolling: touch;
+  margin: 0;
+  padding: 0;
+  min-height: 0;
+  min-width: 0;
+}
+
+html, body {
+  height: 100%;
+}
